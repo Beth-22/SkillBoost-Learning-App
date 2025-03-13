@@ -6,7 +6,7 @@ SkillBoost-Learning App
 | Betanya Addisalem    | UGR/8996/15   |
 | Bethlehem Woldekidan | UGR/1866/15   |
 | Netsanet Tibebu      | UGR/2340/15   |
-| Biniam Markos        | UGR/1233/15   |
+| Biniam Markos        | UGR/6500/15   |
 | Tselot Million       | UGR/0522/15   |
 
 
